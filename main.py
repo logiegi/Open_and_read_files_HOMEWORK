@@ -21,7 +21,7 @@ print()
 print()
 
 
-# 2.txt
+# 2
 
 def get_shop_list_by_dishes(dishes, person_count):
     order = {}
@@ -43,7 +43,7 @@ def get_order(v, order, person_count):
 
 get_shop_list_by_dishes(['Запеченный картофель', 'Омлет'], 2)
 
-# 3.txt
+# 3
 
 
 with open('4.txt', 'x', encoding='utf-8') as file_4:
